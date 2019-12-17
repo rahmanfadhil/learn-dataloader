@@ -1,0 +1,16 @@
+{
+  "name": "learn-dataloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahman Fadhil <rhmnfadhil@gmail.com> (https://rahmanfadhil.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.9.13",
+    "dataloader": "^2.0.0",
+    "graphql": "^14.5.8"
+  }
+}
