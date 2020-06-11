@@ -7,4 +7,4 @@ const server = new ApolloServer({
   resolvers
 });
 
-server.listen().then(() => console.log("Server has started!"));
+server.listen().then(({url) => console.log(`Server has started on ${url}`));
